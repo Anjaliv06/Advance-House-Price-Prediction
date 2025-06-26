@@ -59,7 +59,7 @@ To build a predictive model that can accurately estimate the selling price of ho
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/Advance-House-Price-Prediction.git
+git clone https://github.com/Anjaliv06/Advance-House-Price-Prediction.git
 ```
 
 2. Navigate into the project folder
@@ -95,7 +95,7 @@ jupyter notebook
 
 **Anjali Sharma**  
 Aspiring Data Scientist | AI/ML Enthusiast  
-Feel free to connect via [LinkedIn](https://www.linkedin.com)
+Feel free to connect via [LinkedIn](www.linkedin.com/in/anjalivsharma)
 
 ---
 
